@@ -1,0 +1,24 @@
+15:39:32.862 [main] INFO  com.api.tests.DataDrivenTest - ****** Creating User *******
+15:39:35.808 [main] INFO  com.api.tests.DataDrivenTest - ****** User is Created *******
+15:39:35.823 [main] INFO  com.api.tests.DataDrivenTest - ****** Creating User *******
+15:39:36.922 [main] INFO  com.api.tests.DataDrivenTest - ****** User is Created *******
+15:39:36.925 [main] INFO  com.api.tests.DataDrivenTest - ****** Creating User *******
+15:39:38.030 [main] INFO  com.api.tests.DataDrivenTest - ****** User is Created *******
+12:22:01.222 [main] INFO  com.api.tests.DataDrivenTest - ****** Creating User *******
+12:22:04.667 [main] INFO  com.api.tests.DataDrivenTest - ****** User is Created *******
+12:22:04.669 [main] INFO  com.api.tests.DataDrivenTest - ****** Creating User *******
+12:22:05.770 [main] INFO  com.api.tests.DataDrivenTest - ****** User is Created *******
+12:22:05.772 [main] INFO  com.api.tests.DataDrivenTest - ****** Creating User *******
+12:22:06.895 [main] INFO  com.api.tests.DataDrivenTest - ****** User is Created *******
+12:25:53.569 [main] INFO  com.api.tests.DataDrivenTest - ****** Creating User *******
+12:25:56.599 [main] INFO  com.api.tests.DataDrivenTest - ****** User is Created *******
+12:25:56.616 [main] INFO  com.api.tests.DataDrivenTest - ****** Creating User *******
+12:25:57.735 [main] INFO  com.api.tests.DataDrivenTest - ****** User is Created *******
+12:25:57.736 [main] INFO  com.api.tests.DataDrivenTest - ****** Creating User *******
+12:25:58.845 [main] INFO  com.api.tests.DataDrivenTest - ****** User is Created *******
+12:44:02.013 [main] INFO  com.api.tests.DataDrivenTest - ****** Creating User *******
+12:44:05.085 [main] INFO  com.api.tests.DataDrivenTest - ****** User is Created *******
+12:44:05.103 [main] INFO  com.api.tests.DataDrivenTest - ****** Creating User *******
+12:44:06.212 [main] INFO  com.api.tests.DataDrivenTest - ****** User is Created *******
+12:44:06.213 [main] INFO  com.api.tests.DataDrivenTest - ****** Creating User *******
+12:44:07.311 [main] INFO  com.api.tests.DataDrivenTest - ****** User is Created *******
