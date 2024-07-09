@@ -22,3 +22,9 @@
 12:44:06.212 [main] INFO  com.api.tests.DataDrivenTest - ****** User is Created *******
 12:44:06.213 [main] INFO  com.api.tests.DataDrivenTest - ****** Creating User *******
 12:44:07.311 [main] INFO  com.api.tests.DataDrivenTest - ****** User is Created *******
+12:20:57.918 [main] INFO  com.api.tests.UserTest - ****** Creating User *******
+12:21:00.971 [main] INFO  com.api.tests.UserTest - ****** User is Created *******
+12:21:00.990 [main] INFO  com.api.tests.UserTest - ****** Creating User *******
+12:21:02.088 [main] INFO  com.api.tests.UserTest - ****** User is Created *******
+12:21:02.091 [main] INFO  com.api.tests.UserTest - ****** Creating User *******
+12:21:03.175 [main] INFO  com.api.tests.UserTest - ****** User is Created *******
