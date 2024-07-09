@@ -12,7 +12,7 @@ import com.api.utilities.dataProviders;
 
 import io.restassured.response.Response;
 
-public class DataDrivenTest {
+public class UserTest {
 	
 	User userPayload;
 	

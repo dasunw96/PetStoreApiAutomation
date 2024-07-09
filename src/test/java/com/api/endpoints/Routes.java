@@ -13,10 +13,19 @@ public class Routes {
 	
 	// Store module
 	
+	public static String post_store_order = base_url + "/store/order";
+	public static String get_store_order = base_url + "/store/order/{orderId}";
+	public static String delete_store_order = base_url + "/store/order/{orderId}";
+	
 	
 	// Pet module
 	 
-	
+	public static String post_pet = base_url + "/pet";
+	public static String post_pet_image = base_url + "/pet/{petId}/uploadImage";
+	public static String get_pet_by_id = base_url + "/pet/{petId}";
+	public static String get_pet_by_status = base_url + "/pet/findByStatus";
+	public static String update_pet = base_url + "/pet";
+	public static String delete_pet = base_url + "/pet/{petId}";
 	
 
 }
