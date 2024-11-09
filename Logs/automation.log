@@ -28,3 +28,128 @@
 12:21:02.088 [main] INFO  com.api.tests.UserTest - ****** User is Created *******
 12:21:02.091 [main] INFO  com.api.tests.UserTest - ****** Creating User *******
 12:21:03.175 [main] INFO  com.api.tests.UserTest - ****** User is Created *******
+15:23:56.341 [main] INFO  com.api.tests.UserTest - ****** Creating User *******
+15:23:59.464 [main] INFO  com.api.tests.UserTest - ****** User is Created *******
+15:23:59.485 [main] INFO  com.api.tests.UserTest - ****** Creating User *******
+15:24:00.571 [main] INFO  com.api.tests.UserTest - ****** User is Created *******
+15:24:00.572 [main] INFO  com.api.tests.UserTest - ****** Creating User *******
+15:24:01.776 [main] INFO  com.api.tests.UserTest - ****** User is Created *******
+16:30:37.001 [main] INFO  com.api.tests.UserTest - ****** Creating User *******
+16:30:39.913 [main] INFO  com.api.tests.UserTest - ****** User is Created *******
+16:30:39.918 [main] INFO  com.api.tests.UserTest - ****** Creating User *******
+16:30:41.117 [main] INFO  com.api.tests.UserTest - ****** User is Created *******
+16:30:41.119 [main] INFO  com.api.tests.UserTest - ****** Creating User *******
+16:30:42.232 [main] INFO  com.api.tests.UserTest - ****** User is Created *******
+16:36:28.333 [main] INFO  com.api.tests.UserTest - ****** Creating User *******
+16:36:31.791 [main] INFO  com.api.tests.UserTest - ****** User is Created *******
+16:36:31.797 [main] INFO  com.api.tests.UserTest - ****** Creating User *******
+16:36:33.063 [main] INFO  com.api.tests.UserTest - ****** User is Created *******
+16:36:33.066 [main] INFO  com.api.tests.UserTest - ****** Creating User *******
+16:36:34.365 [main] INFO  com.api.tests.UserTest - ****** User is Created *******
+09:53:25.475 [main] INFO  com.api.tests.UserTest - ****** Creating User *******
+09:53:28.380 [main] INFO  com.api.tests.UserTest - ****** User is Created *******
+09:53:28.429 [main] INFO  com.api.tests.UserTest - ****** Creating User *******
+09:53:29.556 [main] INFO  com.api.tests.UserTest - ****** User is Created *******
+09:53:29.562 [main] INFO  com.api.tests.UserTest - ****** Creating User *******
+09:53:30.748 [main] INFO  com.api.tests.UserTest - ****** User is Created *******
+10:11:27.888 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+10:11:30.790 [main] INFO  com.api.tests.StoreOrderTest - ****** Order Created *******
+10:11:30.833 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+10:11:31.935 [main] INFO  com.api.tests.StoreOrderTest - ****** Order Created *******
+10:11:31.940 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+10:11:33.050 [main] INFO  com.api.tests.StoreOrderTest - ****** Order Created *******
+10:40:56.213 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+10:40:59.159 [main] INFO  com.api.tests.StoreOrderTest - ****** Order Created *******
+10:40:59.200 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+10:41:00.323 [main] INFO  com.api.tests.StoreOrderTest - ****** Order Created *******
+10:41:00.329 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+10:41:01.428 [main] INFO  com.api.tests.StoreOrderTest - ****** Order Created *******
+10:43:31.035 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+10:43:34.304 [main] INFO  com.api.tests.StoreOrderTest - ****** Order Created *******
+10:43:34.359 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+10:43:35.732 [main] INFO  com.api.tests.StoreOrderTest - ****** Order Created *******
+10:43:35.737 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+10:43:37.139 [main] INFO  com.api.tests.StoreOrderTest - ****** Order Created *******
+10:48:46.863 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+10:48:49.767 [main] INFO  com.api.tests.StoreOrderTest - ****** Order Created *******
+10:48:49.813 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+10:48:51.061 [main] INFO  com.api.tests.StoreOrderTest - ****** Order Created *******
+10:48:51.065 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+10:48:52.270 [main] INFO  com.api.tests.StoreOrderTest - ****** Order Created *******
+10:49:29.609 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+10:49:32.484 [main] INFO  com.api.tests.StoreOrderTest - ****** Order Created *******
+10:49:32.534 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+10:49:33.666 [main] INFO  com.api.tests.StoreOrderTest - ****** Order Created *******
+10:49:33.670 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+10:49:34.804 [main] INFO  com.api.tests.StoreOrderTest - ****** Order Created *******
+10:56:13.589 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+10:56:16.577 [main] INFO  com.api.tests.StoreOrderTest - ****** Order Created *******
+10:56:16.620 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+10:56:18.038 [main] INFO  com.api.tests.StoreOrderTest - ****** Order Created *******
+10:56:18.041 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+10:56:19.313 [main] INFO  com.api.tests.StoreOrderTest - ****** Order Created *******
+11:01:23.324 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+11:01:26.330 [main] INFO  com.api.tests.StoreOrderTest - ****** Order Created *******
+11:01:26.366 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+11:01:27.478 [main] INFO  com.api.tests.StoreOrderTest - ****** Order Created *******
+11:01:27.483 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+11:01:28.683 [main] INFO  com.api.tests.StoreOrderTest - ****** Order Created *******
+11:02:29.966 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+11:02:32.748 [main] INFO  com.api.tests.StoreOrderTest - ****** Order Created *******
+11:02:32.792 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+11:02:33.894 [main] INFO  com.api.tests.StoreOrderTest - ****** Order Created *******
+11:02:33.898 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+11:02:35.080 [main] INFO  com.api.tests.StoreOrderTest - ****** Order Created *******
+11:03:12.686 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+11:03:15.312 [main] INFO  com.api.tests.StoreOrderTest - ****** Order Created *******
+11:03:15.365 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+11:03:16.461 [main] INFO  com.api.tests.StoreOrderTest - ****** Order Created *******
+11:03:16.467 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+11:03:17.606 [main] INFO  com.api.tests.StoreOrderTest - ****** Order Created *******
+11:33:33.165 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+11:33:36.293 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+11:33:37.536 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+11:34:36.897 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+11:34:39.820 [main] INFO  com.api.tests.StoreOrderTest - ****** Order Created *******
+11:34:39.824 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+11:34:41.083 [main] INFO  com.api.tests.StoreOrderTest - ****** Order Created *******
+11:34:41.086 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+11:34:42.480 [main] INFO  com.api.tests.StoreOrderTest - ****** Order Created *******
+11:35:12.704 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+11:35:15.438 [main] INFO  com.api.tests.StoreOrderTest - ****** Order Created *******
+11:35:15.442 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+11:35:16.541 [main] INFO  com.api.tests.StoreOrderTest - ****** Order Created *******
+11:35:16.544 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+11:35:17.787 [main] INFO  com.api.tests.StoreOrderTest - ****** Order Created *******
+11:45:58.671 [main] INFO  com.api.tests.StoreOrderTest - ****** Retrieving order *******
+11:46:01.302 [main] INFO  com.api.tests.StoreOrderTest - ****** User is Retrieved *******
+11:46:01.308 [main] INFO  com.api.tests.StoreOrderTest - ****** Retrieving order *******
+11:46:02.416 [main] INFO  com.api.tests.StoreOrderTest - ****** Retrieving order *******
+11:46:35.956 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+11:46:38.851 [main] INFO  com.api.tests.StoreOrderTest - ****** Order Created *******
+11:46:38.856 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+11:46:39.964 [main] INFO  com.api.tests.StoreOrderTest - ****** Order Created *******
+11:46:39.968 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+11:46:41.099 [main] INFO  com.api.tests.StoreOrderTest - ****** Order Created *******
+11:46:41.177 [main] INFO  com.api.tests.StoreOrderTest - ****** Retrieving order *******
+11:46:42.307 [main] INFO  com.api.tests.StoreOrderTest - ****** User is Retrieved *******
+11:46:42.310 [main] INFO  com.api.tests.StoreOrderTest - ****** Retrieving order *******
+11:46:43.431 [main] INFO  com.api.tests.StoreOrderTest - ****** Retrieving order *******
+12:03:34.760 [main] INFO  com.api.tests.StoreOrderTest - ****** Retrieving order *******
+12:03:37.690 [main] INFO  com.api.tests.StoreOrderTest - ****** Order is Retrieved *******
+12:03:37.696 [main] INFO  com.api.tests.StoreOrderTest - ****** Retrieving order *******
+12:03:39.115 [main] INFO  com.api.tests.StoreOrderTest - ****** Order is Retrieved *******
+12:03:39.118 [main] INFO  com.api.tests.StoreOrderTest - ****** Retrieving order *******
+12:03:40.350 [main] INFO  com.api.tests.StoreOrderTest - ****** Order is Retrieved *******
+12:28:30.313 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+12:28:34.078 [main] INFO  com.api.tests.StoreOrderTest - ****** Order Created *******
+12:28:34.081 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+12:28:35.461 [main] INFO  com.api.tests.StoreOrderTest - ****** Order Created *******
+12:28:35.462 [main] INFO  com.api.tests.StoreOrderTest - ****** Store Order Created *******
+12:28:36.838 [main] INFO  com.api.tests.StoreOrderTest - ****** Order Created *******
+12:28:36.920 [main] INFO  com.api.tests.StoreOrderTest - ****** Retrieving order *******
+12:28:38.203 [main] INFO  com.api.tests.StoreOrderTest - ****** Order is Retrieved *******
+12:28:38.204 [main] INFO  com.api.tests.StoreOrderTest - ****** Retrieving order *******
+12:28:39.447 [main] INFO  com.api.tests.StoreOrderTest - ****** Order is Retrieved *******
+12:28:39.448 [main] INFO  com.api.tests.StoreOrderTest - ****** Retrieving order *******
+12:28:40.681 [main] INFO  com.api.tests.StoreOrderTest - ****** Order is Retrieved *******

@@ -2,54 +2,41 @@ package com.api.endpoints;
 
 import static io.restassured.RestAssured.*;
 
-import com.api.payloads.User;
+import com.api.payloads.Store;
 
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 
 public class StoreEndPoints {
 	
-	public static Response createUser(User payload){
+	public static Response createStoreOrder(Store payload){
 		
 		Response response = given()
 			.contentType(ContentType.JSON)
 			.accept(ContentType.JSON)
 			.body(payload)
 		.when()
-			.post(Routes.post_user);
+			.post(Routes.post_store_order);
 		
 		return response;
 	}
 	
-	public static Response getUser(String userName){
+	public static Response getOrder(int orderId){
 		
 		Response response = given()
-				.pathParam("username", userName)
+				.pathParam("orderId", orderId)
 		.when()
-			.get(Routes.get_user);
+			.get(Routes.get_store_order);
 		
 		return response;
-	}
+	}	
 	
-	public static Response updateUser(String userName, User payload){
+	public static Response deleteOrder(int orderId){
 		
 		Response response = given()
-			.contentType(ContentType.JSON)
-			.accept(ContentType.JSON)
-			.pathParam("username", userName)
-			.body(payload)
+				.pathParam("orderId", orderId)
 		.when()
-			.put(Routes.update_user);
-		
-		return response;
-	}
-	
-	public static Response deleteUser(String userName){
-		
-		Response response = given()
-				.pathParam("username", userName)
-		.when()
-			.delete(Routes.delete_user);
+			.delete(Routes.delete_store_order);
 		
 		return response;
 	}

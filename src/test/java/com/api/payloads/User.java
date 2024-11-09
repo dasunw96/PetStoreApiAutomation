@@ -2,14 +2,14 @@ package com.api.payloads;
 
 public class User {
 
-	int id;
-	String username;
-	String firstName;
-	String  lastName;
-	String email;
-	String password;
-	String phone;
-	int userStatus=0;
+	private int id;
+	private String username;
+	private String firstName;
+	private String  lastName;
+	private String email;
+	private String password;
+	private String phone;
+	private int userStatus = 0;
 	
 	
 	public int getId() {

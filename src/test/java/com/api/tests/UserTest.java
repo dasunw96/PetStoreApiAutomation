@@ -1,5 +1,7 @@
 package com.api.tests;
 
+//import java.util.ArrayList;
+
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.testng.Assert;
@@ -24,7 +26,7 @@ public class UserTest {
 		logger = LogManager.getLogger(this.getClass());
 	}
 	
-	@Test(priority=1, dataProvider="Data", dataProviderClass = dataProviders.class)
+	@Test(priority=1, dataProvider="Users", dataProviderClass = dataProviders.class)
 	public void testCreateUser(String userId, String userName,String fName, String lName, String email, String pwd, String ph) {
 		
 		
@@ -50,11 +52,14 @@ public class UserTest {
 	@Test(priority=2, dataProvider="UserNames", dataProviderClass = dataProviders.class)
 	public void testGetUser(String userName) {
 		
+		logger.info("****** Retrieving User *******");
 		Response response = UserEndPoints.getUser(userName);
 		response.then().log().all();
 		
 		Assert.assertEquals(response.getStatusCode(),200);
+		logger.info("****** User is Retrieved *******");
 	}
+	
 	
 	@Test(priority=3, dataProvider="UserNames", dataProviderClass=dataProviders.class)
 	public void testDeleteUser(String userName) {
